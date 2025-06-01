@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Krealer: Snack Panic",
+    "file": "krealer-snack-panic.love",
+    "icon": "assets/icons/krealer-snack-panic.png",
+    "description": "Avoid the snacks or be consumed!"
+  },
+  {
+    "name": "Turn Based Tactics",
+    "file": "turnbased.love",
+    "icon": "assets/icons/turnbased.png",
+    "description": "Classic turn-based strategy fun."
+  }
+]
