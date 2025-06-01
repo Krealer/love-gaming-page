@@ -17,21 +17,6 @@ A simple, stylish static website that hosts `.love` game files built with the [L
 
 ---
 
-## 📁 File Structure
-
-love-gaming-page/
-├── assets/
-│ └── icons/ # Game cover icons
-├── games/ # .love files
-├── games.json # Game metadata
-├── index.html # Main webpage
-├── style.css # Styling
-├── script.js # JavaScript logic
-└── README.md # This file
-
-
----
-
 ## ✍️ How to Add a Game
 
 1. Add your `.love` file to the `games/` folder
@@ -45,13 +30,3 @@ love-gaming-page/
   "icon": "assets/icons/game-file.png",
   "description": "Short description here"
 }
-
-## 🛠️ Built With
-1. HTML + CSS + Vanilla JS
-
-2. LÖVE2D game format
-
-3. GitHub Pages
-
-📃 License
-MIT License. Free to use, remix, and build on!
